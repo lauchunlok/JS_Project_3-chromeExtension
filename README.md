@@ -1,11 +1,12 @@
 # JS_Project_3-chromeExtension
 
 Deployment:
-Go to: <edge://extensions/>
 
-Open developer mode
+1. In browser type <edge://extensions/>
 
-Load Unpacked and select the path to this folder
+2. Open developer mode
+
+3. Load Unpacked and select the path to this folder
 
 
 ## Thought Process:
