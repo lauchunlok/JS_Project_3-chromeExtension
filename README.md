@@ -14,8 +14,19 @@ Deployment:
 ### Function Needed:
 1. render(leads)
 2. inputBtn.addEventListener()
+    - Save the input value to the lead array
+    - Clear the input field
+    - Put the array into local storage (stringify)
+    - call render() function
 3. deleteBtn.addEventListener()
+    - Clear local storage
+    - Clear lead array
+    - call render() function
+
 4. tabBtn.addEventListener()
+    - Save the current tab to the lead array
+    - Put the array into local storage (stringify)
+    - call render() function
 
 
 ### Lessons Learnt:
