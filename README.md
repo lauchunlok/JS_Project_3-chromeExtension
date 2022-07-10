@@ -1,5 +1,13 @@
 # JS_Project_3-chromeExtension
 
+Deployment:
+Go to: [edge://extensions/](edge://extensions/)
+
+Open developer mode
+Load Unpacked and select the path to this folder
+
+
+## Thought Process:
 
 ### Function Needed:
 1. render(leads)
